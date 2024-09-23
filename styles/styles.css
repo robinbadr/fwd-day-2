@@ -1,0 +1,15 @@
+h2 {
+    color:darkblue;
+}
+
+.bg-gray {
+    background-color: grey;
+}
+
+article header h2 {
+    color: green;
+}
+
+h1, h2 {
+    
+}
